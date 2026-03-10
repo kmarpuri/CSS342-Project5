@@ -37,7 +37,7 @@ public:
     void CopyTree(Node* root, Node* &node);
 
     // Size Methods
-    int Size() const;
+    int Sidze() const;
     int Size(Node* root) const;
 
     // Output Overloads

@@ -1,0 +1,3 @@
+/tmp/CSS342-Project5/cmake-build-debug-docker/CMakeFiles/main.dir
+/tmp/CSS342-Project5/cmake-build-debug-docker/CMakeFiles/edit_cache.dir
+/tmp/CSS342-Project5/cmake-build-debug-docker/CMakeFiles/rebuild_cache.dir

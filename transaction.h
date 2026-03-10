@@ -35,7 +35,7 @@ public:
     [[nodiscard]] string first_name() const;
     [[nodiscard]] bool processed() const;
 
-    // Setters
+    // Settersz
     void set_amount(int amount);
     void set_processed(bool processed);
 

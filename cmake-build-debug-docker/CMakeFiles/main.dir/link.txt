@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/account.cpp.o CMakeFiles/main.dir/bank.cpp.o CMakeFiles/main.dir/bstree.cpp.o CMakeFiles/main.dir/fund.cpp.o CMakeFiles/main.dir/transaction.cpp.o -o main 
